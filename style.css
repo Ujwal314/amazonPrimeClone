@@ -7,8 +7,6 @@
     box-sizing: border-box;
     outline: none;
 }
-
-
 body {
     font-family: Arial, Helvetica, sans-serif;
   background-color: black;
@@ -18,9 +16,7 @@ body {
   .navbar {
     overflow: hidden;
     background-color: rgba(22, 31, 53, 0.97);
-  
-  }
-  
+  } 
   .navbar a {
     float: left;
     font-size: 20px;
